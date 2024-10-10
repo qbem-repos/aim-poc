@@ -63,7 +63,3 @@ Este projeto é open source e contribuições são bem-vindas. Se desejar adicio
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
-
----
-
-Isso cobre os principais pontos do seu projeto e facilita a navegação e o entendimento do objetivo da POC.
